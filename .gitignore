@@ -1,0 +1,7 @@
+*.pdf
+*.png
+*.htm
+*.html
+~$*
+.ipynb_checkpoints
+*_files/
